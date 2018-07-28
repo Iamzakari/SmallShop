@@ -1,0 +1,2972 @@
+file contents:
+
+toll : 1
+The total price for customer number: 1  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+colostok : 2
+HB ceruza : 2
+szatyor : 1
+csavarkulcs : 1
+toll : 1
+The total price for customer number: 2  is: 3900.0 HUF
+
+--------------------------------------------------------
+doboz : 2
+szatyor : 3
+The total price for customer number: 3  is: 2300.0 HUF
+
+--------------------------------------------------------
+toll : 1
+filctoll : 1
+The total price for customer number: 4  is: 1000.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+colostok : 1
+HB ceruza : 1
+kefe : 1
+csavarkulcs : 1
+The total price for customer number: 5  is: 2500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+colostok : 2
+kefe : 1
+szatyor : 2
+The total price for customer number: 6  is: 2900.0 HUF
+
+--------------------------------------------------------
+toll : 2
+The total price for customer number: 7  is: 950.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+kefe : 2
+csavarkulcs : 1
+The total price for customer number: 8  is: 1950.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 4
+colostok : 1
+szatyor : 1
+csavarkulcs : 1
+kefe : 1
+The total price for customer number: 9  is: 3750.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+HB ceruza : 1
+csavarkulcs : 1
+The total price for customer number: 10  is: 1500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+The total price for customer number: 11  is: 500.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+szatyor : 2
+csavarkulcs : 1
+The total price for customer number: 12  is: 1950.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+The total price for customer number: 13  is: 500.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+The total price for customer number: 14  is: 500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+kefe : 1
+The total price for customer number: 15  is: 1000.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+The total price for customer number: 16  is: 500.0 HUF
+
+--------------------------------------------------------
+szatyor : 1
+The total price for customer number: 17  is: 500.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+toll : 1
+The total price for customer number: 18  is: 1000.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+szatyor : 1
+The total price for customer number: 19  is: 1000.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+HB ceruza : 1
+toll : 2
+The total price for customer number: 20  is: 1950.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+The total price for customer number: 21  is: 500.0 HUF
+
+--------------------------------------------------------
+filctoll : 1
+The total price for customer number: 22  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+toll : 1
+The total price for customer number: 23  is: 1000.0 HUF
+
+--------------------------------------------------------
+doboz : 2
+HB ceruza : 1
+The total price for customer number: 24  is: 1450.0 HUF
+
+--------------------------------------------------------
+kefe : 1
+The total price for customer number: 25  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 2
+doboz : 1
+colostok : 1
+HB ceruza : 2
+szatyor : 3
+filctoll : 1
+The total price for customer number: 26  is: 4750.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+The total price for customer number: 27  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+szatyor : 1
+toll : 1
+The total price for customer number: 28  is: 1500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+HB ceruza : 2
+The total price for customer number: 29  is: 1450.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+filctoll : 1
+The total price for customer number: 30  is: 1000.0 HUF
+
+--------------------------------------------------------
+toll : 1
+The total price for customer number: 31  is: 500.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+filctoll : 1
+The total price for customer number: 32  is: 1000.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+HB ceruza : 1
+toll : 1
+The total price for customer number: 33  is: 1500.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+csavarkulcs : 2
+kefe : 1
+The total price for customer number: 34  is: 1950.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+szatyor : 1
+The total price for customer number: 35  is: 1000.0 HUF
+
+--------------------------------------------------------
+szatyor : 1
+The total price for customer number: 36  is: 500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+csavarkulcs : 1
+The total price for customer number: 37  is: 1000.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+csavarkulcs : 1
+The total price for customer number: 38  is: 1000.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+doboz : 1
+filctoll : 1
+The total price for customer number: 39  is: 1500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+The total price for customer number: 40  is: 500.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+The total price for customer number: 41  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+colostok : 1
+kefe : 1
+toll : 1
+filctoll : 1
+The total price for customer number: 42  is: 2500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+kefe : 1
+csavarkulcs : 1
+The total price for customer number: 43  is: 1500.0 HUF
+
+--------------------------------------------------------
+toll : 1
+The total price for customer number: 44  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+colostok : 1
+kefe : 1
+The total price for customer number: 45  is: 1500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+szatyor : 1
+kefe : 1
+toll : 2
+The total price for customer number: 46  is: 2450.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+szatyor : 1
+filctoll : 1
+The total price for customer number: 47  is: 1500.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+The total price for customer number: 48  is: 500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+HB ceruza : 1
+The total price for customer number: 49  is: 1000.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+HB ceruza : 1
+The total price for customer number: 50  is: 1000.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+The total price for customer number: 51  is: 500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+kefe : 1
+szatyor : 1
+The total price for customer number: 52  is: 1500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+HB ceruza : 1
+The total price for customer number: 53  is: 1000.0 HUF
+
+--------------------------------------------------------
+toll : 1
+The total price for customer number: 54  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+The total price for customer number: 55  is: 500.0 HUF
+
+--------------------------------------------------------
+kefe : 1
+The total price for customer number: 56  is: 500.0 HUF
+
+--------------------------------------------------------
+toll : 1
+The total price for customer number: 57  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+filctoll : 1
+The total price for customer number: 58  is: 1000.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+szatyor : 1
+filctoll : 1
+The total price for customer number: 59  is: 1500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+The total price for customer number: 60  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+doboz : 1
+colostok : 1
+toll : 1
+filctoll : 1
+The total price for customer number: 61  is: 2500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+The total price for customer number: 62  is: 500.0 HUF
+
+--------------------------------------------------------
+kefe : 1
+The total price for customer number: 63  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+HB ceruza : 1
+The total price for customer number: 64  is: 1000.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+szatyor : 1
+The total price for customer number: 65  is: 1000.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+filctoll : 1
+The total price for customer number: 66  is: 1000.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+szatyor : 1
+The total price for customer number: 67  is: 1000.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+The total price for customer number: 68  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 2
+The total price for customer number: 69  is: 950.0 HUF
+
+--------------------------------------------------------
+doboz : 2
+colostok : 1
+kefe : 2
+csavarkulcs : 1
+The total price for customer number: 70  is: 2900.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+csavarkulcs : 1
+The total price for customer number: 71  is: 1000.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+The total price for customer number: 72  is: 500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+kefe : 1
+toll : 1
+filctoll : 2
+The total price for customer number: 73  is: 2450.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+csavarkulcs : 1
+kefe : 2
+filctoll : 1
+The total price for customer number: 74  is: 2450.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+HB ceruza : 1
+csavarkulcs : 1
+kefe : 1
+The total price for customer number: 75  is: 2000.0 HUF
+
+--------------------------------------------------------
+colostok : 2
+szatyor : 1
+The total price for customer number: 76  is: 1450.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+HB ceruza : 2
+filctoll : 2
+The total price for customer number: 77  is: 2400.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 2
+The total price for customer number: 78  is: 950.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+HB ceruza : 1
+csavarkulcs : 1
+szatyor : 1
+toll : 2
+filctoll : 1
+The total price for customer number: 79  is: 3450.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+The total price for customer number: 80  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+doboz : 2
+csavarkulcs : 1
+The total price for customer number: 81  is: 1950.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+The total price for customer number: 82  is: 500.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+toll : 1
+The total price for customer number: 83  is: 1000.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+kefe : 1
+The total price for customer number: 84  is: 1000.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+The total price for customer number: 85  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+The total price for customer number: 86  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+colostok : 1
+The total price for customer number: 87  is: 1000.0 HUF
+
+--------------------------------------------------------
+szatyor : 1
+The total price for customer number: 88  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+HB ceruza : 1
+kefe : 1
+The total price for customer number: 89  is: 1500.0 HUF
+
+--------------------------------------------------------
+szatyor : 1
+The total price for customer number: 90  is: 500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+The total price for customer number: 91  is: 500.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+filctoll : 1
+The total price for customer number: 92  is: 1000.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+szatyor : 1
+filctoll : 1
+The total price for customer number: 93  is: 1500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+csavarkulcs : 2
+kefe : 1
+szatyor : 1
+toll : 1
+filctoll : 1
+The total price for customer number: 94  is: 3450.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+HB ceruza : 1
+filctoll : 1
+The total price for customer number: 95  is: 1500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+colostok : 3
+kefe : 2
+csavarkulcs : 1
+toll : 1
+The total price for customer number: 96  is: 3800.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+toll : 1
+The total price for customer number: 97  is: 1000.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+csavarkulcs : 1
+szatyor : 1
+toll : 1
+The total price for customer number: 98  is: 2000.0 HUF
+
+--------------------------------------------------------
+toll : 1
+filctoll : 1
+The total price for customer number: 99  is: 1000.0 HUF
+
+--------------------------------------------------------
+kefe : 1
+The total price for customer number: 100  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+HB ceruza : 2
+kefe : 1
+toll : 1
+The total price for customer number: 101  is: 2450.0 HUF
+
+--------------------------------------------------------
+toll : 1
+filctoll : 1
+The total price for customer number: 102  is: 1000.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+The total price for customer number: 103  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+colostok : 1
+The total price for customer number: 104  is: 1000.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+The total price for customer number: 105  is: 500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+toll : 1
+The total price for customer number: 106  is: 1000.0 HUF
+
+--------------------------------------------------------
+toll : 1
+The total price for customer number: 107  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+filctoll : 1
+The total price for customer number: 108  is: 1000.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+doboz : 1
+csavarkulcs : 2
+toll : 2
+The total price for customer number: 109  is: 2900.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+The total price for customer number: 110  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 2
+colostok : 1
+szatyor : 1
+toll : 1
+The total price for customer number: 111  is: 2450.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+The total price for customer number: 112  is: 500.0 HUF
+
+--------------------------------------------------------
+szatyor : 1
+The total price for customer number: 113  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 2
+colostok : 3
+HB ceruza : 1
+filctoll : 1
+The total price for customer number: 114  is: 3300.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+toll : 1
+The total price for customer number: 115  is: 1000.0 HUF
+
+--------------------------------------------------------
+filctoll : 1
+The total price for customer number: 116  is: 500.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 2
+szatyor : 2
+The total price for customer number: 117  is: 1900.0 HUF
+
+--------------------------------------------------------
+kefe : 1
+filctoll : 1
+The total price for customer number: 118  is: 1000.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+HB ceruza : 2
+kefe : 1
+szatyor : 1
+The total price for customer number: 119  is: 2450.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+doboz : 1
+colostok : 2
+HB ceruza : 1
+szatyor : 2
+toll : 3
+The total price for customer number: 120  is: 4750.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+HB ceruza : 2
+kefe : 2
+toll : 1
+The total price for customer number: 121  is: 2900.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 2
+szatyor : 1
+The total price for customer number: 122  is: 1450.0 HUF
+
+--------------------------------------------------------
+szatyor : 1
+The total price for customer number: 123  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+The total price for customer number: 124  is: 500.0 HUF
+
+--------------------------------------------------------
+kefe : 1
+filctoll : 1
+The total price for customer number: 125  is: 1000.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+kefe : 1
+The total price for customer number: 126  is: 1000.0 HUF
+
+--------------------------------------------------------
+szatyor : 1
+kefe : 1
+The total price for customer number: 127  is: 1000.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+colostok : 1
+filctoll : 1
+The total price for customer number: 128  is: 1500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+The total price for customer number: 129  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+szatyor : 1
+toll : 2
+The total price for customer number: 130  is: 1950.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+csavarkulcs : 1
+filctoll : 1
+The total price for customer number: 131  is: 1500.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+The total price for customer number: 132  is: 500.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+The total price for customer number: 133  is: 500.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+kefe : 1
+toll : 1
+The total price for customer number: 134  is: 1500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+doboz : 1
+colostok : 1
+HB ceruza : 1
+The total price for customer number: 135  is: 2000.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 2
+toll : 1
+The total price for customer number: 136  is: 1450.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+The total price for customer number: 137  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+szatyor : 1
+The total price for customer number: 138  is: 1000.0 HUF
+
+--------------------------------------------------------
+kefe : 3
+csavarkulcs : 1
+The total price for customer number: 139  is: 1850.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+The total price for customer number: 140  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+The total price for customer number: 141  is: 500.0 HUF
+
+--------------------------------------------------------
+2.Define how many times were paid at the cashier
+
+ Number of payments: 141
+file contents:
+
+toll : 1
+The total price for customer number: 1  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+colostok : 2
+HB ceruza : 2
+szatyor : 1
+csavarkulcs : 1
+toll : 1
+The total price for customer number: 2  is: 3900.0 HUF
+
+--------------------------------------------------------
+doboz : 2
+szatyor : 3
+The total price for customer number: 3  is: 2300.0 HUF
+
+--------------------------------------------------------
+toll : 1
+filctoll : 1
+The total price for customer number: 4  is: 1000.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+colostok : 1
+HB ceruza : 1
+kefe : 1
+csavarkulcs : 1
+The total price for customer number: 5  is: 2500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+colostok : 2
+kefe : 1
+szatyor : 2
+The total price for customer number: 6  is: 2900.0 HUF
+
+--------------------------------------------------------
+toll : 2
+The total price for customer number: 7  is: 950.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+kefe : 2
+csavarkulcs : 1
+The total price for customer number: 8  is: 1950.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 4
+colostok : 1
+szatyor : 1
+csavarkulcs : 1
+kefe : 1
+The total price for customer number: 9  is: 3750.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+HB ceruza : 1
+csavarkulcs : 1
+The total price for customer number: 10  is: 1500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+The total price for customer number: 11  is: 500.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+szatyor : 2
+csavarkulcs : 1
+The total price for customer number: 12  is: 1950.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+The total price for customer number: 13  is: 500.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+The total price for customer number: 14  is: 500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+kefe : 1
+The total price for customer number: 15  is: 1000.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+The total price for customer number: 16  is: 500.0 HUF
+
+--------------------------------------------------------
+szatyor : 1
+The total price for customer number: 17  is: 500.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+toll : 1
+The total price for customer number: 18  is: 1000.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+szatyor : 1
+The total price for customer number: 19  is: 1000.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+HB ceruza : 1
+toll : 2
+The total price for customer number: 20  is: 1950.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+The total price for customer number: 21  is: 500.0 HUF
+
+--------------------------------------------------------
+filctoll : 1
+The total price for customer number: 22  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+toll : 1
+The total price for customer number: 23  is: 1000.0 HUF
+
+--------------------------------------------------------
+doboz : 2
+HB ceruza : 1
+The total price for customer number: 24  is: 1450.0 HUF
+
+--------------------------------------------------------
+kefe : 1
+The total price for customer number: 25  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 2
+doboz : 1
+colostok : 1
+HB ceruza : 2
+szatyor : 3
+filctoll : 1
+The total price for customer number: 26  is: 4750.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+The total price for customer number: 27  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+szatyor : 1
+toll : 1
+The total price for customer number: 28  is: 1500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+HB ceruza : 2
+The total price for customer number: 29  is: 1450.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+filctoll : 1
+The total price for customer number: 30  is: 1000.0 HUF
+
+--------------------------------------------------------
+toll : 1
+The total price for customer number: 31  is: 500.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+filctoll : 1
+The total price for customer number: 32  is: 1000.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+HB ceruza : 1
+toll : 1
+The total price for customer number: 33  is: 1500.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+csavarkulcs : 2
+kefe : 1
+The total price for customer number: 34  is: 1950.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+szatyor : 1
+The total price for customer number: 35  is: 1000.0 HUF
+
+--------------------------------------------------------
+szatyor : 1
+The total price for customer number: 36  is: 500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+csavarkulcs : 1
+The total price for customer number: 37  is: 1000.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+csavarkulcs : 1
+The total price for customer number: 38  is: 1000.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+doboz : 1
+filctoll : 1
+The total price for customer number: 39  is: 1500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+The total price for customer number: 40  is: 500.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+The total price for customer number: 41  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+colostok : 1
+kefe : 1
+toll : 1
+filctoll : 1
+The total price for customer number: 42  is: 2500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+kefe : 1
+csavarkulcs : 1
+The total price for customer number: 43  is: 1500.0 HUF
+
+--------------------------------------------------------
+toll : 1
+The total price for customer number: 44  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+colostok : 1
+kefe : 1
+The total price for customer number: 45  is: 1500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+szatyor : 1
+kefe : 1
+toll : 2
+The total price for customer number: 46  is: 2450.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+szatyor : 1
+filctoll : 1
+The total price for customer number: 47  is: 1500.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+The total price for customer number: 48  is: 500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+HB ceruza : 1
+The total price for customer number: 49  is: 1000.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+HB ceruza : 1
+The total price for customer number: 50  is: 1000.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+The total price for customer number: 51  is: 500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+kefe : 1
+szatyor : 1
+The total price for customer number: 52  is: 1500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+HB ceruza : 1
+The total price for customer number: 53  is: 1000.0 HUF
+
+--------------------------------------------------------
+toll : 1
+The total price for customer number: 54  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+The total price for customer number: 55  is: 500.0 HUF
+
+--------------------------------------------------------
+kefe : 1
+The total price for customer number: 56  is: 500.0 HUF
+
+--------------------------------------------------------
+toll : 1
+The total price for customer number: 57  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+filctoll : 1
+The total price for customer number: 58  is: 1000.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+szatyor : 1
+filctoll : 1
+The total price for customer number: 59  is: 1500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+The total price for customer number: 60  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+doboz : 1
+colostok : 1
+toll : 1
+filctoll : 1
+The total price for customer number: 61  is: 2500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+The total price for customer number: 62  is: 500.0 HUF
+
+--------------------------------------------------------
+kefe : 1
+The total price for customer number: 63  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+HB ceruza : 1
+The total price for customer number: 64  is: 1000.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+szatyor : 1
+The total price for customer number: 65  is: 1000.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+filctoll : 1
+The total price for customer number: 66  is: 1000.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+szatyor : 1
+The total price for customer number: 67  is: 1000.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+The total price for customer number: 68  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 2
+The total price for customer number: 69  is: 950.0 HUF
+
+--------------------------------------------------------
+doboz : 2
+colostok : 1
+kefe : 2
+csavarkulcs : 1
+The total price for customer number: 70  is: 2900.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+csavarkulcs : 1
+The total price for customer number: 71  is: 1000.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+The total price for customer number: 72  is: 500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+kefe : 1
+toll : 1
+filctoll : 2
+The total price for customer number: 73  is: 2450.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+csavarkulcs : 1
+kefe : 2
+filctoll : 1
+The total price for customer number: 74  is: 2450.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+HB ceruza : 1
+csavarkulcs : 1
+kefe : 1
+The total price for customer number: 75  is: 2000.0 HUF
+
+--------------------------------------------------------
+colostok : 2
+szatyor : 1
+The total price for customer number: 76  is: 1450.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+HB ceruza : 2
+filctoll : 2
+The total price for customer number: 77  is: 2400.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 2
+The total price for customer number: 78  is: 950.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+HB ceruza : 1
+csavarkulcs : 1
+szatyor : 1
+toll : 2
+filctoll : 1
+The total price for customer number: 79  is: 3450.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+The total price for customer number: 80  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+doboz : 2
+csavarkulcs : 1
+The total price for customer number: 81  is: 1950.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+The total price for customer number: 82  is: 500.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+toll : 1
+The total price for customer number: 83  is: 1000.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+kefe : 1
+The total price for customer number: 84  is: 1000.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+The total price for customer number: 85  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+The total price for customer number: 86  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+colostok : 1
+The total price for customer number: 87  is: 1000.0 HUF
+
+--------------------------------------------------------
+szatyor : 1
+The total price for customer number: 88  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+HB ceruza : 1
+kefe : 1
+The total price for customer number: 89  is: 1500.0 HUF
+
+--------------------------------------------------------
+szatyor : 1
+The total price for customer number: 90  is: 500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+The total price for customer number: 91  is: 500.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+filctoll : 1
+The total price for customer number: 92  is: 1000.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+szatyor : 1
+filctoll : 1
+The total price for customer number: 93  is: 1500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+csavarkulcs : 2
+kefe : 1
+szatyor : 1
+toll : 1
+filctoll : 1
+The total price for customer number: 94  is: 3450.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+HB ceruza : 1
+filctoll : 1
+The total price for customer number: 95  is: 1500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+colostok : 3
+kefe : 2
+csavarkulcs : 1
+toll : 1
+The total price for customer number: 96  is: 3800.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+toll : 1
+The total price for customer number: 97  is: 1000.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+csavarkulcs : 1
+szatyor : 1
+toll : 1
+The total price for customer number: 98  is: 2000.0 HUF
+
+--------------------------------------------------------
+toll : 1
+filctoll : 1
+The total price for customer number: 99  is: 1000.0 HUF
+
+--------------------------------------------------------
+kefe : 1
+The total price for customer number: 100  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+HB ceruza : 2
+kefe : 1
+toll : 1
+The total price for customer number: 101  is: 2450.0 HUF
+
+--------------------------------------------------------
+toll : 1
+filctoll : 1
+The total price for customer number: 102  is: 1000.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+The total price for customer number: 103  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+colostok : 1
+The total price for customer number: 104  is: 1000.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+The total price for customer number: 105  is: 500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+toll : 1
+The total price for customer number: 106  is: 1000.0 HUF
+
+--------------------------------------------------------
+toll : 1
+The total price for customer number: 107  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+filctoll : 1
+The total price for customer number: 108  is: 1000.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+doboz : 1
+csavarkulcs : 2
+toll : 2
+The total price for customer number: 109  is: 2900.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+The total price for customer number: 110  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 2
+colostok : 1
+szatyor : 1
+toll : 1
+The total price for customer number: 111  is: 2450.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+The total price for customer number: 112  is: 500.0 HUF
+
+--------------------------------------------------------
+szatyor : 1
+The total price for customer number: 113  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 2
+colostok : 3
+HB ceruza : 1
+filctoll : 1
+The total price for customer number: 114  is: 3300.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+toll : 1
+The total price for customer number: 115  is: 1000.0 HUF
+
+--------------------------------------------------------
+filctoll : 1
+The total price for customer number: 116  is: 500.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 2
+szatyor : 2
+The total price for customer number: 117  is: 1900.0 HUF
+
+--------------------------------------------------------
+kefe : 1
+filctoll : 1
+The total price for customer number: 118  is: 1000.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+HB ceruza : 2
+kefe : 1
+szatyor : 1
+The total price for customer number: 119  is: 2450.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+doboz : 1
+colostok : 2
+HB ceruza : 1
+szatyor : 2
+toll : 3
+The total price for customer number: 120  is: 4750.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+HB ceruza : 2
+kefe : 2
+toll : 1
+The total price for customer number: 121  is: 2900.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 2
+szatyor : 1
+The total price for customer number: 122  is: 1450.0 HUF
+
+--------------------------------------------------------
+szatyor : 1
+The total price for customer number: 123  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+The total price for customer number: 124  is: 500.0 HUF
+
+--------------------------------------------------------
+kefe : 1
+filctoll : 1
+The total price for customer number: 125  is: 1000.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+kefe : 1
+The total price for customer number: 126  is: 1000.0 HUF
+
+--------------------------------------------------------
+szatyor : 1
+kefe : 1
+The total price for customer number: 127  is: 1000.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+colostok : 1
+filctoll : 1
+The total price for customer number: 128  is: 1500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+The total price for customer number: 129  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+szatyor : 1
+toll : 2
+The total price for customer number: 130  is: 1950.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+csavarkulcs : 1
+filctoll : 1
+The total price for customer number: 131  is: 1500.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+The total price for customer number: 132  is: 500.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+The total price for customer number: 133  is: 500.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+kefe : 1
+toll : 1
+The total price for customer number: 134  is: 1500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+doboz : 1
+colostok : 1
+HB ceruza : 1
+The total price for customer number: 135  is: 2000.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 2
+toll : 1
+The total price for customer number: 136  is: 1450.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+The total price for customer number: 137  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+szatyor : 1
+The total price for customer number: 138  is: 1000.0 HUF
+
+--------------------------------------------------------
+kefe : 3
+csavarkulcs : 1
+The total price for customer number: 139  is: 1850.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+The total price for customer number: 140  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+The total price for customer number: 141  is: 500.0 HUF
+
+--------------------------------------------------------
+2.Define how many times were paid at the cashier
+
+141times were paid at the cashier
+file contents:
+
+toll : 1
+The total price for customer number: 1  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+colostok : 2
+HB ceruza : 2
+szatyor : 1
+csavarkulcs : 1
+toll : 1
+The total price for customer number: 2  is: 3900.0 HUF
+
+--------------------------------------------------------
+doboz : 2
+szatyor : 3
+The total price for customer number: 3  is: 2300.0 HUF
+
+--------------------------------------------------------
+toll : 1
+filctoll : 1
+The total price for customer number: 4  is: 1000.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+colostok : 1
+HB ceruza : 1
+kefe : 1
+csavarkulcs : 1
+The total price for customer number: 5  is: 2500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+colostok : 2
+kefe : 1
+szatyor : 2
+The total price for customer number: 6  is: 2900.0 HUF
+
+--------------------------------------------------------
+toll : 2
+The total price for customer number: 7  is: 950.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+kefe : 2
+csavarkulcs : 1
+The total price for customer number: 8  is: 1950.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 4
+colostok : 1
+szatyor : 1
+csavarkulcs : 1
+kefe : 1
+The total price for customer number: 9  is: 3750.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+HB ceruza : 1
+csavarkulcs : 1
+The total price for customer number: 10  is: 1500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+The total price for customer number: 11  is: 500.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+szatyor : 2
+csavarkulcs : 1
+The total price for customer number: 12  is: 1950.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+The total price for customer number: 13  is: 500.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+The total price for customer number: 14  is: 500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+kefe : 1
+The total price for customer number: 15  is: 1000.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+The total price for customer number: 16  is: 500.0 HUF
+
+--------------------------------------------------------
+szatyor : 1
+The total price for customer number: 17  is: 500.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+toll : 1
+The total price for customer number: 18  is: 1000.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+szatyor : 1
+The total price for customer number: 19  is: 1000.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+HB ceruza : 1
+toll : 2
+The total price for customer number: 20  is: 1950.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+The total price for customer number: 21  is: 500.0 HUF
+
+--------------------------------------------------------
+filctoll : 1
+The total price for customer number: 22  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+toll : 1
+The total price for customer number: 23  is: 1000.0 HUF
+
+--------------------------------------------------------
+doboz : 2
+HB ceruza : 1
+The total price for customer number: 24  is: 1450.0 HUF
+
+--------------------------------------------------------
+kefe : 1
+The total price for customer number: 25  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 2
+doboz : 1
+colostok : 1
+HB ceruza : 2
+szatyor : 3
+filctoll : 1
+The total price for customer number: 26  is: 4750.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+The total price for customer number: 27  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+szatyor : 1
+toll : 1
+The total price for customer number: 28  is: 1500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+HB ceruza : 2
+The total price for customer number: 29  is: 1450.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+filctoll : 1
+The total price for customer number: 30  is: 1000.0 HUF
+
+--------------------------------------------------------
+toll : 1
+The total price for customer number: 31  is: 500.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+filctoll : 1
+The total price for customer number: 32  is: 1000.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+HB ceruza : 1
+toll : 1
+The total price for customer number: 33  is: 1500.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+csavarkulcs : 2
+kefe : 1
+The total price for customer number: 34  is: 1950.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+szatyor : 1
+The total price for customer number: 35  is: 1000.0 HUF
+
+--------------------------------------------------------
+szatyor : 1
+The total price for customer number: 36  is: 500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+csavarkulcs : 1
+The total price for customer number: 37  is: 1000.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+csavarkulcs : 1
+The total price for customer number: 38  is: 1000.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+doboz : 1
+filctoll : 1
+The total price for customer number: 39  is: 1500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+The total price for customer number: 40  is: 500.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+The total price for customer number: 41  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+colostok : 1
+kefe : 1
+toll : 1
+filctoll : 1
+The total price for customer number: 42  is: 2500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+kefe : 1
+csavarkulcs : 1
+The total price for customer number: 43  is: 1500.0 HUF
+
+--------------------------------------------------------
+toll : 1
+The total price for customer number: 44  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+colostok : 1
+kefe : 1
+The total price for customer number: 45  is: 1500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+szatyor : 1
+kefe : 1
+toll : 2
+The total price for customer number: 46  is: 2450.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+szatyor : 1
+filctoll : 1
+The total price for customer number: 47  is: 1500.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+The total price for customer number: 48  is: 500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+HB ceruza : 1
+The total price for customer number: 49  is: 1000.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+HB ceruza : 1
+The total price for customer number: 50  is: 1000.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+The total price for customer number: 51  is: 500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+kefe : 1
+szatyor : 1
+The total price for customer number: 52  is: 1500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+HB ceruza : 1
+The total price for customer number: 53  is: 1000.0 HUF
+
+--------------------------------------------------------
+toll : 1
+The total price for customer number: 54  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+The total price for customer number: 55  is: 500.0 HUF
+
+--------------------------------------------------------
+kefe : 1
+The total price for customer number: 56  is: 500.0 HUF
+
+--------------------------------------------------------
+toll : 1
+The total price for customer number: 57  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+filctoll : 1
+The total price for customer number: 58  is: 1000.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+szatyor : 1
+filctoll : 1
+The total price for customer number: 59  is: 1500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+The total price for customer number: 60  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+doboz : 1
+colostok : 1
+toll : 1
+filctoll : 1
+The total price for customer number: 61  is: 2500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+The total price for customer number: 62  is: 500.0 HUF
+
+--------------------------------------------------------
+kefe : 1
+The total price for customer number: 63  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+HB ceruza : 1
+The total price for customer number: 64  is: 1000.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+szatyor : 1
+The total price for customer number: 65  is: 1000.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+filctoll : 1
+The total price for customer number: 66  is: 1000.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+szatyor : 1
+The total price for customer number: 67  is: 1000.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+The total price for customer number: 68  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 2
+The total price for customer number: 69  is: 950.0 HUF
+
+--------------------------------------------------------
+doboz : 2
+colostok : 1
+kefe : 2
+csavarkulcs : 1
+The total price for customer number: 70  is: 2900.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+csavarkulcs : 1
+The total price for customer number: 71  is: 1000.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+The total price for customer number: 72  is: 500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+kefe : 1
+toll : 1
+filctoll : 2
+The total price for customer number: 73  is: 2450.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+csavarkulcs : 1
+kefe : 2
+filctoll : 1
+The total price for customer number: 74  is: 2450.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+HB ceruza : 1
+csavarkulcs : 1
+kefe : 1
+The total price for customer number: 75  is: 2000.0 HUF
+
+--------------------------------------------------------
+colostok : 2
+szatyor : 1
+The total price for customer number: 76  is: 1450.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+HB ceruza : 2
+filctoll : 2
+The total price for customer number: 77  is: 2400.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 2
+The total price for customer number: 78  is: 950.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+HB ceruza : 1
+csavarkulcs : 1
+szatyor : 1
+toll : 2
+filctoll : 1
+The total price for customer number: 79  is: 3450.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+The total price for customer number: 80  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+doboz : 2
+csavarkulcs : 1
+The total price for customer number: 81  is: 1950.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+The total price for customer number: 82  is: 500.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+toll : 1
+The total price for customer number: 83  is: 1000.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+kefe : 1
+The total price for customer number: 84  is: 1000.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+The total price for customer number: 85  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+The total price for customer number: 86  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+colostok : 1
+The total price for customer number: 87  is: 1000.0 HUF
+
+--------------------------------------------------------
+szatyor : 1
+The total price for customer number: 88  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+HB ceruza : 1
+kefe : 1
+The total price for customer number: 89  is: 1500.0 HUF
+
+--------------------------------------------------------
+szatyor : 1
+The total price for customer number: 90  is: 500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+The total price for customer number: 91  is: 500.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+filctoll : 1
+The total price for customer number: 92  is: 1000.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+szatyor : 1
+filctoll : 1
+The total price for customer number: 93  is: 1500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+csavarkulcs : 2
+kefe : 1
+szatyor : 1
+toll : 1
+filctoll : 1
+The total price for customer number: 94  is: 3450.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+HB ceruza : 1
+filctoll : 1
+The total price for customer number: 95  is: 1500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+colostok : 3
+kefe : 2
+csavarkulcs : 1
+toll : 1
+The total price for customer number: 96  is: 3800.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+toll : 1
+The total price for customer number: 97  is: 1000.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+csavarkulcs : 1
+szatyor : 1
+toll : 1
+The total price for customer number: 98  is: 2000.0 HUF
+
+--------------------------------------------------------
+toll : 1
+filctoll : 1
+The total price for customer number: 99  is: 1000.0 HUF
+
+--------------------------------------------------------
+kefe : 1
+The total price for customer number: 100  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+HB ceruza : 2
+kefe : 1
+toll : 1
+The total price for customer number: 101  is: 2450.0 HUF
+
+--------------------------------------------------------
+toll : 1
+filctoll : 1
+The total price for customer number: 102  is: 1000.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+The total price for customer number: 103  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+colostok : 1
+The total price for customer number: 104  is: 1000.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+The total price for customer number: 105  is: 500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+toll : 1
+The total price for customer number: 106  is: 1000.0 HUF
+
+--------------------------------------------------------
+toll : 1
+The total price for customer number: 107  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+filctoll : 1
+The total price for customer number: 108  is: 1000.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+doboz : 1
+csavarkulcs : 2
+toll : 2
+The total price for customer number: 109  is: 2900.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+The total price for customer number: 110  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 2
+colostok : 1
+szatyor : 1
+toll : 1
+The total price for customer number: 111  is: 2450.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+The total price for customer number: 112  is: 500.0 HUF
+
+--------------------------------------------------------
+szatyor : 1
+The total price for customer number: 113  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 2
+colostok : 3
+HB ceruza : 1
+filctoll : 1
+The total price for customer number: 114  is: 3300.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+toll : 1
+The total price for customer number: 115  is: 1000.0 HUF
+
+--------------------------------------------------------
+filctoll : 1
+The total price for customer number: 116  is: 500.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 2
+szatyor : 2
+The total price for customer number: 117  is: 1900.0 HUF
+
+--------------------------------------------------------
+kefe : 1
+filctoll : 1
+The total price for customer number: 118  is: 1000.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+HB ceruza : 2
+kefe : 1
+szatyor : 1
+The total price for customer number: 119  is: 2450.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+doboz : 1
+colostok : 2
+HB ceruza : 1
+szatyor : 2
+toll : 3
+The total price for customer number: 120  is: 4750.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+HB ceruza : 2
+kefe : 2
+toll : 1
+The total price for customer number: 121  is: 2900.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 2
+szatyor : 1
+The total price for customer number: 122  is: 1450.0 HUF
+
+--------------------------------------------------------
+szatyor : 1
+The total price for customer number: 123  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+The total price for customer number: 124  is: 500.0 HUF
+
+--------------------------------------------------------
+kefe : 1
+filctoll : 1
+The total price for customer number: 125  is: 1000.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+kefe : 1
+The total price for customer number: 126  is: 1000.0 HUF
+
+--------------------------------------------------------
+szatyor : 1
+kefe : 1
+The total price for customer number: 127  is: 1000.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+colostok : 1
+filctoll : 1
+The total price for customer number: 128  is: 1500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+The total price for customer number: 129  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+szatyor : 1
+toll : 2
+The total price for customer number: 130  is: 1950.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+csavarkulcs : 1
+filctoll : 1
+The total price for customer number: 131  is: 1500.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+The total price for customer number: 132  is: 500.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+The total price for customer number: 133  is: 500.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+kefe : 1
+toll : 1
+The total price for customer number: 134  is: 1500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+doboz : 1
+colostok : 1
+HB ceruza : 1
+The total price for customer number: 135  is: 2000.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 2
+toll : 1
+The total price for customer number: 136  is: 1450.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+The total price for customer number: 137  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+szatyor : 1
+The total price for customer number: 138  is: 1000.0 HUF
+
+--------------------------------------------------------
+kefe : 3
+csavarkulcs : 1
+The total price for customer number: 139  is: 1850.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+The total price for customer number: 140  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+The total price for customer number: 141  is: 500.0 HUF
+
+--------------------------------------------------------
+2.Define how many times were paid at the cashier
+
+141  times were paid at the cashier
+file contents:
+
+toll : 1
+The total price for customer number: 1  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+colostok : 2
+HB ceruza : 2
+szatyor : 1
+csavarkulcs : 1
+toll : 1
+The total price for customer number: 2  is: 3900.0 HUF
+
+--------------------------------------------------------
+doboz : 2
+szatyor : 3
+The total price for customer number: 3  is: 2300.0 HUF
+
+--------------------------------------------------------
+toll : 1
+filctoll : 1
+The total price for customer number: 4  is: 1000.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+colostok : 1
+HB ceruza : 1
+kefe : 1
+csavarkulcs : 1
+The total price for customer number: 5  is: 2500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+colostok : 2
+kefe : 1
+szatyor : 2
+The total price for customer number: 6  is: 2900.0 HUF
+
+--------------------------------------------------------
+toll : 2
+The total price for customer number: 7  is: 950.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+kefe : 2
+csavarkulcs : 1
+The total price for customer number: 8  is: 1950.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 4
+colostok : 1
+szatyor : 1
+csavarkulcs : 1
+kefe : 1
+The total price for customer number: 9  is: 3750.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+HB ceruza : 1
+csavarkulcs : 1
+The total price for customer number: 10  is: 1500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+The total price for customer number: 11  is: 500.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+szatyor : 2
+csavarkulcs : 1
+The total price for customer number: 12  is: 1950.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+The total price for customer number: 13  is: 500.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+The total price for customer number: 14  is: 500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+kefe : 1
+The total price for customer number: 15  is: 1000.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+The total price for customer number: 16  is: 500.0 HUF
+
+--------------------------------------------------------
+szatyor : 1
+The total price for customer number: 17  is: 500.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+toll : 1
+The total price for customer number: 18  is: 1000.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+szatyor : 1
+The total price for customer number: 19  is: 1000.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+HB ceruza : 1
+toll : 2
+The total price for customer number: 20  is: 1950.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+The total price for customer number: 21  is: 500.0 HUF
+
+--------------------------------------------------------
+filctoll : 1
+The total price for customer number: 22  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+toll : 1
+The total price for customer number: 23  is: 1000.0 HUF
+
+--------------------------------------------------------
+doboz : 2
+HB ceruza : 1
+The total price for customer number: 24  is: 1450.0 HUF
+
+--------------------------------------------------------
+kefe : 1
+The total price for customer number: 25  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 2
+doboz : 1
+colostok : 1
+HB ceruza : 2
+szatyor : 3
+filctoll : 1
+The total price for customer number: 26  is: 4750.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+The total price for customer number: 27  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+szatyor : 1
+toll : 1
+The total price for customer number: 28  is: 1500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+HB ceruza : 2
+The total price for customer number: 29  is: 1450.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+filctoll : 1
+The total price for customer number: 30  is: 1000.0 HUF
+
+--------------------------------------------------------
+toll : 1
+The total price for customer number: 31  is: 500.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+filctoll : 1
+The total price for customer number: 32  is: 1000.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+HB ceruza : 1
+toll : 1
+The total price for customer number: 33  is: 1500.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+csavarkulcs : 2
+kefe : 1
+The total price for customer number: 34  is: 1950.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+szatyor : 1
+The total price for customer number: 35  is: 1000.0 HUF
+
+--------------------------------------------------------
+szatyor : 1
+The total price for customer number: 36  is: 500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+csavarkulcs : 1
+The total price for customer number: 37  is: 1000.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+csavarkulcs : 1
+The total price for customer number: 38  is: 1000.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+doboz : 1
+filctoll : 1
+The total price for customer number: 39  is: 1500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+The total price for customer number: 40  is: 500.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+The total price for customer number: 41  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+colostok : 1
+kefe : 1
+toll : 1
+filctoll : 1
+The total price for customer number: 42  is: 2500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+kefe : 1
+csavarkulcs : 1
+The total price for customer number: 43  is: 1500.0 HUF
+
+--------------------------------------------------------
+toll : 1
+The total price for customer number: 44  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+colostok : 1
+kefe : 1
+The total price for customer number: 45  is: 1500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+szatyor : 1
+kefe : 1
+toll : 2
+The total price for customer number: 46  is: 2450.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+szatyor : 1
+filctoll : 1
+The total price for customer number: 47  is: 1500.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+The total price for customer number: 48  is: 500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+HB ceruza : 1
+The total price for customer number: 49  is: 1000.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+HB ceruza : 1
+The total price for customer number: 50  is: 1000.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+The total price for customer number: 51  is: 500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+kefe : 1
+szatyor : 1
+The total price for customer number: 52  is: 1500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+HB ceruza : 1
+The total price for customer number: 53  is: 1000.0 HUF
+
+--------------------------------------------------------
+toll : 1
+The total price for customer number: 54  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+The total price for customer number: 55  is: 500.0 HUF
+
+--------------------------------------------------------
+kefe : 1
+The total price for customer number: 56  is: 500.0 HUF
+
+--------------------------------------------------------
+toll : 1
+The total price for customer number: 57  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+filctoll : 1
+The total price for customer number: 58  is: 1000.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+szatyor : 1
+filctoll : 1
+The total price for customer number: 59  is: 1500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+The total price for customer number: 60  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+doboz : 1
+colostok : 1
+toll : 1
+filctoll : 1
+The total price for customer number: 61  is: 2500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+The total price for customer number: 62  is: 500.0 HUF
+
+--------------------------------------------------------
+kefe : 1
+The total price for customer number: 63  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+HB ceruza : 1
+The total price for customer number: 64  is: 1000.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+szatyor : 1
+The total price for customer number: 65  is: 1000.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+filctoll : 1
+The total price for customer number: 66  is: 1000.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+szatyor : 1
+The total price for customer number: 67  is: 1000.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+The total price for customer number: 68  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 2
+The total price for customer number: 69  is: 950.0 HUF
+
+--------------------------------------------------------
+doboz : 2
+colostok : 1
+kefe : 2
+csavarkulcs : 1
+The total price for customer number: 70  is: 2900.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+csavarkulcs : 1
+The total price for customer number: 71  is: 1000.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+The total price for customer number: 72  is: 500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+kefe : 1
+toll : 1
+filctoll : 2
+The total price for customer number: 73  is: 2450.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+csavarkulcs : 1
+kefe : 2
+filctoll : 1
+The total price for customer number: 74  is: 2450.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+HB ceruza : 1
+csavarkulcs : 1
+kefe : 1
+The total price for customer number: 75  is: 2000.0 HUF
+
+--------------------------------------------------------
+colostok : 2
+szatyor : 1
+The total price for customer number: 76  is: 1450.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+HB ceruza : 2
+filctoll : 2
+The total price for customer number: 77  is: 2400.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 2
+The total price for customer number: 78  is: 950.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+HB ceruza : 1
+csavarkulcs : 1
+szatyor : 1
+toll : 2
+filctoll : 1
+The total price for customer number: 79  is: 3450.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+The total price for customer number: 80  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+doboz : 2
+csavarkulcs : 1
+The total price for customer number: 81  is: 1950.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+The total price for customer number: 82  is: 500.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+toll : 1
+The total price for customer number: 83  is: 1000.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+kefe : 1
+The total price for customer number: 84  is: 1000.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+The total price for customer number: 85  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+The total price for customer number: 86  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+colostok : 1
+The total price for customer number: 87  is: 1000.0 HUF
+
+--------------------------------------------------------
+szatyor : 1
+The total price for customer number: 88  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+HB ceruza : 1
+kefe : 1
+The total price for customer number: 89  is: 1500.0 HUF
+
+--------------------------------------------------------
+szatyor : 1
+The total price for customer number: 90  is: 500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+The total price for customer number: 91  is: 500.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+filctoll : 1
+The total price for customer number: 92  is: 1000.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+szatyor : 1
+filctoll : 1
+The total price for customer number: 93  is: 1500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+csavarkulcs : 2
+kefe : 1
+szatyor : 1
+toll : 1
+filctoll : 1
+The total price for customer number: 94  is: 3450.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+HB ceruza : 1
+filctoll : 1
+The total price for customer number: 95  is: 1500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+colostok : 3
+kefe : 2
+csavarkulcs : 1
+toll : 1
+The total price for customer number: 96  is: 3800.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+toll : 1
+The total price for customer number: 97  is: 1000.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+csavarkulcs : 1
+szatyor : 1
+toll : 1
+The total price for customer number: 98  is: 2000.0 HUF
+
+--------------------------------------------------------
+toll : 1
+filctoll : 1
+The total price for customer number: 99  is: 1000.0 HUF
+
+--------------------------------------------------------
+kefe : 1
+The total price for customer number: 100  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+HB ceruza : 2
+kefe : 1
+toll : 1
+The total price for customer number: 101  is: 2450.0 HUF
+
+--------------------------------------------------------
+toll : 1
+filctoll : 1
+The total price for customer number: 102  is: 1000.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+The total price for customer number: 103  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+colostok : 1
+The total price for customer number: 104  is: 1000.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+The total price for customer number: 105  is: 500.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+toll : 1
+The total price for customer number: 106  is: 1000.0 HUF
+
+--------------------------------------------------------
+toll : 1
+The total price for customer number: 107  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+filctoll : 1
+The total price for customer number: 108  is: 1000.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+doboz : 1
+csavarkulcs : 2
+toll : 2
+The total price for customer number: 109  is: 2900.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+The total price for customer number: 110  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 2
+colostok : 1
+szatyor : 1
+toll : 1
+The total price for customer number: 111  is: 2450.0 HUF
+
+--------------------------------------------------------
+colostok : 1
+The total price for customer number: 112  is: 500.0 HUF
+
+--------------------------------------------------------
+szatyor : 1
+The total price for customer number: 113  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 2
+colostok : 3
+HB ceruza : 1
+filctoll : 1
+The total price for customer number: 114  is: 3300.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+toll : 1
+The total price for customer number: 115  is: 1000.0 HUF
+
+--------------------------------------------------------
+filctoll : 1
+The total price for customer number: 116  is: 500.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 2
+szatyor : 2
+The total price for customer number: 117  is: 1900.0 HUF
+
+--------------------------------------------------------
+kefe : 1
+filctoll : 1
+The total price for customer number: 118  is: 1000.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+HB ceruza : 2
+kefe : 1
+szatyor : 1
+The total price for customer number: 119  is: 2450.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+doboz : 1
+colostok : 2
+HB ceruza : 1
+szatyor : 2
+toll : 3
+The total price for customer number: 120  is: 4750.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+HB ceruza : 2
+kefe : 2
+toll : 1
+The total price for customer number: 121  is: 2900.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 2
+szatyor : 1
+The total price for customer number: 122  is: 1450.0 HUF
+
+--------------------------------------------------------
+szatyor : 1
+The total price for customer number: 123  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+The total price for customer number: 124  is: 500.0 HUF
+
+--------------------------------------------------------
+kefe : 1
+filctoll : 1
+The total price for customer number: 125  is: 1000.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+kefe : 1
+The total price for customer number: 126  is: 1000.0 HUF
+
+--------------------------------------------------------
+szatyor : 1
+kefe : 1
+The total price for customer number: 127  is: 1000.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+colostok : 1
+filctoll : 1
+The total price for customer number: 128  is: 1500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+The total price for customer number: 129  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+szatyor : 1
+toll : 2
+The total price for customer number: 130  is: 1950.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+csavarkulcs : 1
+filctoll : 1
+The total price for customer number: 131  is: 1500.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+The total price for customer number: 132  is: 500.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+The total price for customer number: 133  is: 500.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+kefe : 1
+toll : 1
+The total price for customer number: 134  is: 1500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+doboz : 1
+colostok : 1
+HB ceruza : 1
+The total price for customer number: 135  is: 2000.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 2
+toll : 1
+The total price for customer number: 136  is: 1450.0 HUF
+
+--------------------------------------------------------
+HB ceruza : 1
+The total price for customer number: 137  is: 500.0 HUF
+
+--------------------------------------------------------
+doboz : 1
+szatyor : 1
+The total price for customer number: 138  is: 1000.0 HUF
+
+--------------------------------------------------------
+kefe : 3
+csavarkulcs : 1
+The total price for customer number: 139  is: 1850.0 HUF
+
+--------------------------------------------------------
+csavarkulcs : 1
+The total price for customer number: 140  is: 500.0 HUF
+
+--------------------------------------------------------
+ceruzaelem : 1
+The total price for customer number: 141  is: 500.0 HUF
+
+--------------------------------------------------------
+2.Define how many times were paid at the cashier
+
+141  times were paid at the cashier
